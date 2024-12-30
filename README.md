@@ -1,5 +1,8 @@
+<<<<<<< Updated upstream
 # curos-intensivo-python
  Curso Intensivo de PYTHON de Eric Matthes
+=======
+>>>>>>> Stashed changes
 # Python Curso Intensivo - Ejercicios por Unidad
 
 Este repositorio contiene los ejercicios realizados del libro **"Curso Intensivo de Python"**, tercera edición. Los ejercicios están organizados según las unidades presentadas en el libro, facilitando su navegación y estudio. Además, incluye contenido en el lenguaje Python para apoyar el aprendizaje práctico.
