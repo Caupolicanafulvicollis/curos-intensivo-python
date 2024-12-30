@@ -1,5 +1,8 @@
+<<<<<<< Updated upstream
 # curos-intensivo-python
  Curso Intensivo de PYTHON de Eric Matthes
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 # Python Curso Intensivo - Ejercicios por Unidad
