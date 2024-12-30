@@ -1,4 +1,4 @@
-# curos-intensivo-python
+# Curso-intensivo-python
  Curso Intensivo de PYTHON de Eric Matthes
 # Python Curso Intensivo - Ejercicios por Unidad
 
